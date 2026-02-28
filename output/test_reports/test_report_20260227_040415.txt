@@ -1,0 +1,61 @@
+Mobile Forensic Report
+==================================================
+
+
+SMS DATA
+------------------------------
+From: +1234567890
+Date: 2026-02-27 04:04:15
+Message: Test message 1
+--------------------
+From: +1987654321
+Date: 2026-02-27 04:04:15
+Message: Another test
+--------------------
+
+
+CALLS DATA
+------------------------------
+Number: +1234567890
+Date: 2026-02-27 04:04:15
+Duration: 1m 5s
+Type: Incoming
+--------------------
+Number: +1987654321
+Date: 2026-02-27 04:04:15
+Duration: 1h 1m
+Type: Outgoing
+--------------------
+Number: +1112223333
+Date: 2026-02-27 04:04:15
+Duration: 30 sec
+Type: Outgoing
+--------------------
+
+
+BROWSER DATA
+------------------------------
+URL: http://example.com
+Title: Example
+Date: 2026-02-27 04:04:15
+--------------------
+
+
+MEDIA DATA
+------------------------------
+
+Images:
+/path/to/image.jpg
+
+Videos:
+/path/to/video.mp4
+
+
+DOCUMENTS DATA
+------------------------------
+Path: /path/to/doc.pdf
+Type: pdf
+Size: 12345
+Modified: 2026-02-27 04:04:15
+--------------------
+

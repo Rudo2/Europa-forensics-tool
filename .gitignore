@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +206,44 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+=======
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Distribution / build
+build/
+dist/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+
+# Local SQLite forensic DB
+forensic_data.db
+
+# Test / cache
+.pytest_cache/
+
+# Coverage
+htmlcov/
+.coverage
+
+# Others
+*.pyc
+>>>>>>> 7d91a13 (Initial commit - Europa Forensics Tool)

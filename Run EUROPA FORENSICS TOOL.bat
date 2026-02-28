@@ -1,0 +1,3 @@
+@echo off
+echo Starting EUROPA FORENSICS TOOL...
+start "" "EUROPA FORENSICS TOOL.exe" 
